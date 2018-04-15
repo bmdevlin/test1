@@ -1,0 +1,8 @@
+{
+  "name": "bmdtest1",
+  "app_id": "eae9fcf2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
